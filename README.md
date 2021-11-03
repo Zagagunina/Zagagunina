@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zagagunina
+- 👋 Hi, I’m @Zagagulina
 - 👀 I’m interested in all
 - 🌱 I’m currently learning html)
 - 💞️ I’m looking to collaborate on ...
